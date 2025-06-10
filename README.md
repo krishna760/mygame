@@ -16,12 +16,12 @@ Add C:\MinGW\bin to your system's Environment Variables → Path.
 check gcc --version in powershell
 gcc SnakeWaterGame.c -o game.exe
 ## For e.g:  
-PS C:\Users\dell\OneDrive\Desktop\overall\testfolder> ./game.exe
-Enter s for snake, w for water  and g for gun==>>w
-You choose w and computer choose g==>>You win
-PS C:\Users\dell\OneDrive\Desktop\overall\testfolder> ./game.exe
-Enter s for snake, w for water  and g for gun==>>w
-You choose w and computer choose w==>>Game Draw
+PS C:\Users\dell\OneDrive\Desktop\overall\testfolder> ./game.exe  
+Enter s for snake, w for water  and g for gun==>>w  
+You choose w and computer choose g==>>You win  
+PS C:\Users\dell\OneDrive\Desktop\overall\testfolder> ./game.exe  
+Enter s for snake, w for water  and g for gun==>>w  
+You choose w and computer choose w==>>Game Draw  
 
 ## Multiplication table
 This C code is a simple program that generates and prints multiplication tables for several numbers
